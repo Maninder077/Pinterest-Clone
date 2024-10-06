@@ -1,0 +1,33 @@
+
+.box{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.images{
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+
+
+.box p{
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.imgPro{
+    height: 37px;
+    width: 37px;
+    margin-left: 13px;
+    border-radius: 50px;
+}
+
+.imgProDiv{
+    display: flex;
+}
+
+.proname{
+    margin-top: 10px;
+}

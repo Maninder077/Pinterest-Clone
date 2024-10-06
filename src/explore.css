@@ -1,0 +1,83 @@
+/* .exploreMain{
+    display: flex;
+    justify-content: center;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&display=swap');
+
+.exploreContainer{
+    margin: 20px auto;
+    columns: 3;
+    column-gap: 20px;
+    width: 1400px;
+}
+
+.boxw{
+    padding: 150px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.box1{
+    background: url("https://t4.ftcdn.net/jpg/04/15/79/09/360_F_415790935_7va5lMHOmyhvAcdskXbSx7lDJUp0cfja.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box2{
+    background: url("https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/07/15/Pictures/_70d6897a-c66b-11ea-be81-f7b2e356804f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box3{
+    background: url("https://i0.wp.com/www.theotheraesthetic.com/wp-content/uploads/2022/08/Pastel-Bedroom-1-e1673514012138.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box4{
+    background: url("https://cdn.logojoy.com/wp-content/uploads/20191023114758/AdobeStock_224061283-min.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box5{
+    background: url("https://apparelbyenemy.com/cdn/shop/articles/wp8431376_1200x630.jpg?v=1684366903");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box6{
+    background: url("https://miro.medium.com/v2/resize:fit:1200/1*j5oU0pua1_K3M4J8nQrPSg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.textexplore{
+    text-align: center;
+    font-family: "Blinker";
+    margin: 40px;
+}
+
+.textexplore>h1{
+    margin-top: 15px;
+}
+
+.textexplore2{
+    text-align: center;
+    font-family: "Blinker";
+    margin: 40px;
+}
+
+.textexplore2>h3{
+    margin-top: 15px;
+}
